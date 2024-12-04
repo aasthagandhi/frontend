@@ -1,0 +1,9 @@
+.header-title{
+    font-weight:bold;
+    color:rgb(13, 10, 8);
+    margin-bottom: 1rem;
+}
+.header-font{
+    font-size: 2rem;
+    font-family: "Gill Sans",sans-serif;
+}
